@@ -10,5 +10,5 @@ required:
   scikit-learn:0.23.2
   
  Run:
-  Unzip the package
-  python test.py 
+  1、Unzip the package
+  2、python test.py 
